@@ -19,7 +19,7 @@
 
 <h4 align="center">Languages and Tools:</h4>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="gunathilakax" /> </p>
+<p align="center"> <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gunathilakax&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="gunathilakax" /> </p>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp; <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a>
